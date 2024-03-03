@@ -29,3 +29,4 @@ I hope I did pretty well.
 - [ ] Print it on paper to check if the holes align and correct them if necessary.
 - [ ] Round the sharp cuts.
 - [ ] Fix warnings about the membrane button pads colliding with the microswitch pads _(they are connected on purpose)_.
+- [ ] Actually test the board.
