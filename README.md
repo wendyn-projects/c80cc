@@ -28,3 +28,5 @@ I hope I did pretty well.
 # TODOs:
 - [ ] Print it on paper to check if the holes align and correct them if necessary.
 - [ ] Actually test the board.
+- [ ] Create part lists for both IC variants.
+- [ ] Create an overlay daughter board that would accommodate a connector for both IC variants.
