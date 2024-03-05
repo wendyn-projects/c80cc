@@ -5,8 +5,6 @@ This is a swap-in replacement board for a controller of a certain 80s console.
 
 > [!WARNING]
 > As of now the board was not yet tested!
-> 
-> _The holes might not even align._
 
 ## Features
  - You can pick between original membrane buttons or microswitches.
@@ -42,6 +40,5 @@ This is actually my first PCB, I don't really know any good practices.
 I hope I did pretty well.
 
 # TODOs:
-- [ ] Print it on paper to check if the holes align and correct them if necessary.
 - [ ] Actually test the board.
 - [ ] Create an overlay daughter boards for both IC variants that would accommodate a connector _(as of now you are suppose to solder the wires directly to J<sub>...**X**</sub>)_.
