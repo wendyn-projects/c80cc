@@ -1,5 +1,8 @@
 # C80CC - Certain 80s Console's Controller
-Made using [LibrePCB](https://librepcb.org/)
+_Made using [LibrePCB](https://librepcb.org/)_
+
+This is a swap-in replacement board for a controller of a certain 80
+s console.
 
 > [!WARNING]
 > As of now the board was not yet tested!
@@ -16,10 +19,14 @@ Made using [LibrePCB](https://librepcb.org/)
 | Name | Variant 1 | Variant 2
 | - | - | - |
 | Q<sub>1</sub> | SN74LS166 | ❌ |
-| R<sub>clock1</sub>, R<sub>latch1</sub> | 3.3 kΩ | ❌ |
+| R<sub>clock1</sub>, R<sub>latch1</sub> | 3.3 kΩ <sup>*1</sup> | ❌ |
+| J<sub>...1</sub> | J<sub>...</sub> | ❌ |
 | Q<sub>2</sub> | ❌ | CD4021 |
-| R<sub>clock2</sub>, R<sub>latch2</sub> | ❌ | 3.3 kΩ |
+| R<sub>clock2</sub>, R<sub>latch2</sub> | ❌ | 3.3 kΩ <sup>*1</sup> |
+| J<sub>...2</sub> | ❌ | J<sub>...</sub> |
 | R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub>, R<sub>6</sub>, R<sub>7</sub>, R<sub>8</sub> | 1 kΩ | 1 kΩ |
+
+- *1 - optional for PAL compatibility
 
 ## Story behing this Project
 I am waiting for [Triple Jump](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes) cartridge, which has a game for **4** players. So I ordered [Four Score](https://en.wikipedia.org/wiki/NES_Four_Score) but I have only 2 controllers and I didn't want to spend money on something that just isn't worth that much.
