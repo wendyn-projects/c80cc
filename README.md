@@ -18,13 +18,13 @@ s console.
 
 | Name | Variant 1 | Variant 2
 | - | - | - |
-| Q<sub>1</sub> | SN74LS166 | ❌ |
+| R<sub>1</sub> - R<sub>8</sub> | 1 kΩ | 1 kΩ |
+| Q<sub>1</sub> | **SN74LS166** | ❌ |
 | R<sub>clock1</sub>, R<sub>latch1</sub> | 3.3 kΩ <sup>`*1`</sup> | ❌ |
 | J<sub>...1</sub> | J<sub>...</sub> | ❌ |
-| Q<sub>2</sub> | ❌ | CD4021 |
+| Q<sub>2</sub> | ❌ | **CD4021** |
 | R<sub>clock2</sub>, R<sub>latch2</sub> | ❌ | 3.3 kΩ <sup>`*1`</sup> |
 | J<sub>...2</sub> | ❌ | J<sub>...</sub> |
-| R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub>, R<sub>6</sub>, R<sub>7</sub>, R<sub>8</sub> | 1 kΩ | 1 kΩ |
 
 - `*1` - optional for PAL compatibility
 
