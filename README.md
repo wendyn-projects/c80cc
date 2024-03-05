@@ -21,10 +21,9 @@ s console.
 | R<sub>1</sub> - R<sub>8</sub> | 1 kΩ | 1 kΩ |
 | Q<sub>1</sub> | **SN74LS166** | ❌ |
 | R<sub>clock1</sub>, R<sub>latch1</sub> | 3.3 kΩ <sup>`*1`</sup> | ❌ |
-| J<sub>...1</sub> | J<sub>...</sub> | ❌ |
 | Q<sub>2</sub> | ❌ | **CD4021** |
 | R<sub>clock2</sub>, R<sub>latch2</sub> | ❌ | 3.3 kΩ <sup>`*1`</sup> |
-| J<sub>...2</sub> | ❌ | J<sub>...</sub> |
+| J<sub>...</sub> | J<sub>...**1**</sub> | J<sub>...**2**</sub> |
 
 - `*1` - optional for PAL compatibility
 
