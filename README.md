@@ -22,13 +22,13 @@ Made using [LibrePCB](https://librepcb.org/)
 | R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub>, R<sub>6</sub>, R<sub>7</sub>, R<sub>8</sub> | 1 kΩ | 1 kΩ |
 
 ## Story behing this Project
-I am waiting for [Triple Jump](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes) cartridge, which has a game for **4** players. So I ordered [Four Score](https://en.wikipedia.org/wiki/NES_Four_Score) but I have only 2 controllers and I didn't want to pay that much money for something that shouldn't cost that much.
+I am waiting for [Triple Jump](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes) cartridge, which has a game for **4** players. So I ordered [Four Score](https://en.wikipedia.org/wiki/NES_Four_Score) but I have only 2 controllers and I didn't want to spend money on something that just isn't worth that much.
 
 I tried to find a board that I could print myself but I couldn't find one that didn't suck.
-I ended up finding a project that claimed "it exists for anyone to modify to create your own controller" _or something like that_ and it was made in paid software 🙄.
-I thought I could at least take dimensions from it using some free online viewer but I found out they used imperial units with something that was clearly made with metric system 🤦‍♀️.
+For example one project that I found claimed "it exists for anyone to modify to create your own controller" _or something like that_ but it was made in paid software 🙄.
+I thought I could at least take dimensions from it, using some free online viewer, but I found out they used imperial units with something that was clearly made with metric system 🤦‍♀️.
 
-There was actually one pretty cool board _(which inspired me to add [these](#features) features)_ that I found on an old post on some forum, but the guy didn't release it to public. However he encouraged people to make their own.
+There was actually one pretty cool board _(which inspired me to add [these](#features) features)_ that I found on an old post on some forum, but sadly the guy didn't release it to public. However he encouraged people to make their own.
 So I ended up just taking a controller apart and overlaying it on my screen to place the holes in what I hope are correct locations.
 _I was using a caliper at first but it was quite tedious and the error was actually pretty high with the holes. ~~skill issue~~_
 
