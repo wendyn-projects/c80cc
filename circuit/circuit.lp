@@ -337,6 +337,11 @@
   (device 26196ff3-cabb-424b-90bf-8918d494dd81
    (variant 266e83d9-59c5-4ee9-90a8-201e8b57c796)
   )
+  (device 26196ff3-cabb-424b-90bf-8918d494dd81
+   (variant 266e83d9-59c5-4ee9-90a8-201e8b57c796)
+   (part "SN74ALS166" (manufacturer "Texas Instruments")
+   )
+  )
   (signal 115756c8-0e54-4f27-81f9-10172f294947 (net 3c468682-4d16-47d8-b20a-407f2f4683f7))
   (signal 4ad9286b-89e5-43c7-84af-685a1a7e9a1c (net d5699d77-6a3d-4f25-ae80-efd348166ad9))
   (signal 4d2655d4-f3ba-4b07-a7e2-e484c079ac2f (net 0ccde8a2-b30a-467b-a4a8-d3cf887d69db))
@@ -417,6 +422,11 @@
   (lock_assembly false)
   (device 4358502c-f823-4c56-8a7e-e2c2744ec34b
    (variant 266e83d9-59c5-4ee9-90a8-201e8b57c796)
+  )
+  (device 4358502c-f823-4c56-8a7e-e2c2744ec34b
+   (variant 266e83d9-59c5-4ee9-90a8-201e8b57c796)
+   (part "CD4021B" (manufacturer "Texas Instruments")
+   )
   )
   (signal 0664e88c-1ae3-42b6-ba89-64815d94ee5f (net 2ef82984-2966-446e-8c6c-4a9cb2810581))
   (signal 08f21717-5b2e-4ea8-9638-b86305081e8d (net 97ab39fe-96db-4e11-8581-92da61b02f18))
