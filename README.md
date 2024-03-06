@@ -13,7 +13,7 @@ This is a swap-in replacement board for a controller of a certain 80s console.
 
 ## Part list
 
-| Name | Variant 1 | Variant 2
+| Name | Variant 1 | Variant 2 |
 | - | - | - |
 | R<sub>1</sub> - R<sub>8</sub> | 1 kΩ | 1 kΩ |
 | Q<sub>1</sub> | **SN74LS166** | ❌ |
