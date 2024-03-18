@@ -39,6 +39,6 @@ _I was using a caliper at first but it was quite tedious and the error was actua
 This is actually my first PCB, I don't really know any good practices.
 I hope I did pretty well.
 
-# TODOs:
+## TODOs:
 - [ ] Actually test the board.
 - [ ] Create an overlay daughter boards for both IC variants that would accommodate a connector _(as of now you are suppose to solder the wires directly to J<sub>...**X**</sub>)_.
